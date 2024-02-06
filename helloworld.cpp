@@ -9,7 +9,7 @@ int main(){
 cout<<"eres mayor de edad"<<endl;
     }else{
         cout<<"eres menor de edad"<<endl;
-    }
+    } cout<<"programa terminado :)"<<endl;
 return 0;
 
 }
